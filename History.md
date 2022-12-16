@@ -1,3 +1,11 @@
+5.0.0-beta.1-fix / 2022-12-17
+=========================
+
+This is a security release made by this specific down-stream.
+
+  * deps: qs@6.9.7
+    - Fix handling of `__proto__` keys
+
 5.0.0-beta.1 / 2022-02-14
 =========================
 
